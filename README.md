@@ -5,31 +5,18 @@ Advanced papers of Retrieval-Agumented Generation (RAG).
 
 ## Prompt Route
 
-(1) Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy 
+(1) **\[EMNLP 2023, findings\]** Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy 
 
-- EMNLP 2023, findings
-- Through iteration of retrieval and augmention
-
-
-
-(2) Self-Knowledge Guided Retrieval Augmentation for Large Language Models
-
-- EMNLP 2024, findings
-- Core idea : classify user queries between "model knows" and "need more knowledge", call retrieval just for the latter type.
+(2) **\[EMNLP 2024, findings\]** Self-Knowledge Guided Retrieval Augmentation for Large Language Models
 
 
 
 ## Improve Retriever
 
-(1) Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
-
-- ACL 2023, long paper
-- Introduce another sub-system (including a LM) to help retriever get better documents
+(1) **\[ACL 2023, long paper\]** Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions
 
 
 
 ## New module / framework
 
-(1) Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
-
-- ICLR 2024
+(1) **\[ICLR 2024\]** Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
